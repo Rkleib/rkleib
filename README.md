@@ -6,5 +6,5 @@
 - Goals: Contribute to Open Source Projects.
 
 ### Connect with me:
-<a href="https://rkleib.github.io">rkleib.github.io</a>
+<a href="https://rkleib.github.io">rkleib.github.io</a><br/>
 <a href="https://www.linkedin.com/in/rommy-trendy-kharisma-682580192/">Linkedin</a>
